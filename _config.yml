@@ -1,0 +1,28 @@
+name: Josh Test Site
+favicon: null
+layout_spectrum: 0.9683971849735826
+typography_spectrum: 0.06958180665969849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7952329982072115
+  lightness: 0.9628675812855363
+  saturation: 0.5865158021915704
+  rhythmicContrast: 0.8973090834915638
+purpose: []
